@@ -38,14 +38,13 @@ There will be **no required homework** for any portion of this course. Most lect
 
 The course is designed to introduce students to the theory and practice of artificial intelligence with biased emphasis on deep learning. We will (try to) cover the following topics:
 
-0. Initialization: overview basic concepts of artificial intelligence, symbolic computation, machine learning, deep learning, and neural networks, and multi-agent systems as well as AI ethics and ML ops.
+0. Initialization: overview basic concepts of artificial intelligence, symbolic computation, machine learning, deep learning, and neural networks, and multi-agent systems.
 1. Machines that learn: fundamental concepts of machine learning, including regression, classification, clustering, regularization, and ensembles as well as basic information theory.
 2. Deep dive: basic concepts of deep learning, common architectures, layer types, and activation functions as well as backpropagation, optimization, loss functions, and training paradigms.
 3. The Zoo: overview of specific deep learning architectures including DNNs, VAEs, CNNs, RNNs, LSTMs, attention-based models, GNNs, and mutlimodal systems.
 4. Reinforcement learning: the classical utility agent, various extrinsic and intrinsic rewards, training setups, and environments, cooperative/competitive/mixed-mode multi-agent reinforcement learning systems, and advantages and pitfalls of RL.
 5. Intelligence: generalization, zero/one/few-shot learning, transfer learning, more information theory, criticality, generalization, transferability, the relationship between intelligence and learning, and the limits of AI generality.
-
-This cirriculumn does not designate particular units for ethics, independant study technique, or the natural inspirations of artificial intelligence because they will be interwoven throughout the course discussion.
+6. Hello World: AI safety, security, privacy, and ethics, AI in acedemia, in the workplace, ML ops, federated learning, human-AI interaction, environmental impact, and the impact of AI on human life.
 
 ## Course Resources
 <div id="course-resources"></div>
