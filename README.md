@@ -38,7 +38,7 @@ There will be **no required homework** for any portion of this course. Most lect
 
 The course is designed to introduce students to the theory and practice of artificial intelligence with biased emphasis on deep learning. We will (try to) cover the following topics:
 
-0. Initialization: overview basic concepts of artificial intelligence, symbolic computation, machine learning, deep learning, and neural networks, and multi-agent systems.
+0. Initialization: overview basic concepts of artificial intelligence, symbolic computation, machine learning, deep learning, and neural networks, and multi-agent systems as well as AI ethics and ML ops.
 1. Machines that learn: fundamental concepts of machine learning, including regression, classification, clustering, regularization, and ensembles as well as basic information theory.
 2. Deep dive: basic concepts of deep learning, common architectures, layer types, and activation functions as well as backpropagation, optimization, loss functions, and training paradigms.
 3. The Zoo: overview of specific deep learning architectures including DNNs, VAEs, CNNs, RNNs, LSTMs, attention-based models, GNNs, and mutlimodal systems.
