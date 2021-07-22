@@ -44,7 +44,7 @@ The course is designed to introduce students to the theory and practice of artif
 3. The Zoo: overview of specific deep learning architectures including DNNs, VAEs, CNNs, RNNs, LSTMs, attention-based models, GNNs, and mutlimodal systems.
 4. Reinforcement learning: the classical utility agent, various extrinsic and intrinsic rewards, training setups, and environments, cooperative/competitive/mixed-mode multi-agent reinforcement learning systems, and advantages and pitfalls of RL.
 5. Intelligence: generalization, zero/one/few-shot learning, transfer learning, more information theory, criticality, generalization, transferability, the relationship between intelligence and learning, and the limits of AI generality.
-6. Hello World: AI safety, security, privacy, and ethics, AI in acedemia, in the workplace, ML ops, federated learning, human-AI interaction, environmental impact, and the impact of AI on human life.
+6. Hello World: AI safety, security, privacy, and ethics, AI in the news, in acedemia, and in the workplace, ML ops, federated learning, human-AI interaction, environmental impact, and the impact of AI on human life.
 
 ## Course Resources
 <div id="course-resources"></div>

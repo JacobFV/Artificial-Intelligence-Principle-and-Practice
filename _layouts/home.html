@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    {% include head.html %}
+    {% include scripts/mathjax.html %}
+    <!-- jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  </head>
+
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+
+    <!-- Header -->
+
+    {% include header.html %}
+
+    <!-- Content -->
+    <img style="position: relative; width: 100vw; height: auto;" src="assets/img/cover.png">
+    
+    <div style="background-color: #ffffffee; position:absolute; right:5vw; top:10vw; width: auto; min-width: 25vw; margin: 12pt; padding: 6pt; border-radius: 2.5pt">
+      <form id="signup" style="width: auto;" >
+          <div id="beforeSignup">
+              <input type="hidden" name="accessKey" value="0d04c522-1740-4f6c-aa50-ecc292a089bc">
+              <input type="text" style="width: 100%;" name="name" placeholder="name" > <br>
+              <input type="text" style="width: 100%;" name="email" placeholder="email (UTA preferred)"> <br>
+              <input type="submit" value="Sign Up" class="highlightButton" />
+              <!-- If we receive data in this field submission will be ignored -->
+              <input type="text" name="honeypot" style="display: none;">
+          </div>
+          <div id="afterSignup" style="max-height: 0; opacity: 0">
+              <p id="welcomeMessage">I look foreward to seeing you!</p>
+          </div>
+      </form>
+      <script>
+      $('#signup').submit(function(e){
+          e.preventDefault();
+          $.ajax({
+              url: 'https://api.staticforms.xyz/submit',
+              type: 'post',
+              data:$('#signup').serialize(),
+              success:function(){
+                  // form submitted successfully
+                  $("#beforeSignup").animate({
+                      "max-height": 0,
+                      opacity: 0
+                  }, 1000);
+                  $("#afterSignup").animate({
+                      "max-height": 10000,
+                      opacity: 1
+                  }, 1000);
+              }
+          });
+      });
+      </script>
+      
+      <hr>
+      <div>
+      <div style="opacity: 0.9">Class begins</div>
+      <div style="font-weight: 700">Wednesday August 1, 2021</div>
+      <p style="background-color: dark-grey">
+      Lecture 1:00 - 1:50pm <br>
+      Lab 2:00 - 2:50pm <br>
+      Colloqium 3:00 - 3:50pm
+      </p>
+      </div>   
+    </div>
+
+    <div class="container mt-5">
+
+      
+      
+      <div class="post">
+      
+        <!--<header class="post-header">
+          <h1 class="post-title">
+           {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+          </h1>
+           <p class="desc">{{ page.description }}</p>
+        </header>-->
+      
+        <article>
+          {% if page.profile %}
+          <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+            {% if page.profile.image %}
+              <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+            {% endif %}
+            {% if page.profile.address %}
+              <div class="address">
+                {{ page.profile.address }}
+              </div>
+            {% endif %}
+          </div>
+          {% endif %}
+      
+          <div class="clearfix">
+            {{ content }}
+          </div>
+      
+          {% if page.news %}
+            {% include news.html %}
+          {% endif %}
+      
+          {% if page.selected_papers %}
+            {% include selected_papers.html %}
+          {% endif %}
+      
+          {% if page.social %}
+          <div class="social">
+            <div class="contact-icons">
+              {% include social.html %}
+            </div>
+            <div class="contact-note">{{ site.contact_note }}</div>
+          </div>
+          {% endif %}
+        </article>
+      
+      </div>
+      
+    </div>
+
+    <!-- Footer -->
+
+    {% include footer.html %}
+
+  </body>
+
+  {% include scripts/bootstrap.html %}
+  {% include scripts/mansory.html %}
+  {% include scripts/misc.html %}
+
+</html>
