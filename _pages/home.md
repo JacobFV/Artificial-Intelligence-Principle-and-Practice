@@ -64,6 +64,7 @@ If many students already have deeper roots in math, statistics, information theo
 ---
 
 Course expectations:
+
  ❌ no homework <br>
  ❌ no tests <br>
  ❌ no costs (this course is free) <br>
