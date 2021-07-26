@@ -2,7 +2,7 @@
 layout: home
 title: Home
 permalink: /
-description: Deep-learning focussed intro to AI from theory to code.
+description: 8-day journey to the cutting-edge artificial intelligence theory and technique.
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -78,6 +78,7 @@ $('#signup').submit(function(e){
  ❌ no tests <br>
  ❌ no grading  <br>
  ⚠️ <b>This course is not accredited by UTA</b>  <br>
+ ✔️ Undergraduate and graduate students welcome <br>
  ✔️ individualized written assignments <br>
  ✔️ machine learning <br>
  ✔️ (most importantly) human learning <br>
@@ -95,5 +96,6 @@ If reading this puts your brain on the edge of chaos and your reward estimator f
 <p style="background-color: dark-grey">
 Lecture 1:00 - 1:50pm <br>
 Lab 2:00 - 2:50pm<br>
+Discussion 3:00 - 3:50pm<br>
 Times may be adjusted <br>per general student availability
 </p>
