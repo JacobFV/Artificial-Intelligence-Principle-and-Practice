@@ -9,44 +9,44 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<span style="opacity: 0.9">Day 1: </span>
-<span style="font-weight: 700">Oct. 4 / Oct. 5, 2021</span>
 <p style="background-color: dark-grey">
-Lecture 1:00 - 1:50pm <br>
-Lab 2:00 - 2:50pm<br>
-Discussion 3:00 - 3:50pm<br>
+<b>Lecture</b> (1:00 - 1:50pm): interactive undergraduate-style lecture<br> 
+<b>Lab</b> (2:00 - 2:50pm): hands-on engineering experience<br>
+<b>Deep Dive</b> (3:00 - 3:50pm): graduate-style paper and peer-focused discussion<br>
 Times may be adjusted per general student availability.
 </p>
+
+Day 1: <b>Oct. 4 / Oct. 5, 2021</b>
 
 ---
 
 We will study:
 <ul>
-<li>Symbolic approaches</li>
-<li>Machine learning</li>
-<li>Neural networks and deep learning</li>
-<li>Computer vision</li>
-<li>Sequence modeling</li>
-<li>Natural language processing</li>
-<li>Reinforcement learning (including multi-agent RL)</li>
-<li>Human-level artificial intelligence</li>
+    <li>Symbolic approaches</li>
+    <li>Machine learning</li>
+    <li>Neural networks and deep learning</li>
+    <li>Computer vision</li>
+    <li>Sequence modeling</li>
+    <li>Natural language processing</li>
+    <li>Reinforcement learning (including multi-agent RL)</li>
+    <li>Human-level artificial intelligence</li>
 </ul>
 
 ---
 
 We will use:
 <ul>
-<li>Python</li>
-<li>SciPy suite</li>
-<li>Jax</li>
-<li>PyTorch</li>
-<li>TensorFlow (python, tflite and tf.js)</li>
-<li>Huggingface</li>
-<li>OpenAI Gym</li>
-<li>PettingZoo</li>
-<li>TDW</li>
-<li>Docker</li>
-<li>Cload Compute</li>
+    <li>Python</li>
+    <li>SciPy suite</li>
+    <li>Jax</li>
+    <li>PyTorch</li>
+    <li>TensorFlow (python, tflite and tf.js)</li>
+    <li>Huggingface</li>
+    <li>OpenAI Gym</li>
+    <li>PettingZoo</li>
+    <li>TDW</li>
+    <li>Docker</li>
+    <li>Cload Compute</li>
 </ul>
 
 ---
@@ -57,6 +57,7 @@ Student expectations:
 <li>apply probability & statistics to toy problems</li>
 <li>write simple Python programs</li>
 </ul>
+
 If many students already have deeper roots in math, statistics, information theory, physics, biology, neuroscience, or psychology, we will discuss advanced principles of artificial intelligence engineering from those perspectives.
 
 ---
@@ -64,16 +65,14 @@ If many students already have deeper roots in math, statistics, information theo
 Course expectations:
  ❌ no homework <br>
  ❌ no tests <br>
- ❌ no grading  <br>
- ⚠️ <b>This course is not accredited by UTA</b>  <br>
- ✔️ Free <br>
- ✔️ Undergraduate and graduate students welcome <br>
- ✔️ individualized written assignments <br>
+ ❌ no costs (this course is free) <br>
+ ⚠️ <b>This course is not accredited by UTA</b><br>
+ ✔️ individualized activities <br>
  ✔️ machine learning <br>
  ✔️ (most importantly) human learning <br>
 
 <div style="background-color: white; padding: 6pt;">
-If reading this puts your brain on the edge of chaos and your reward estimator feels like it's ready to explode, please consider taking this course.
+If your neurons have accumulated sufficient presynaptic evidence and your reward estimator feels like it's ready to explode, please join me on this exciting journey!
 
 [More information](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/details)
 </div>

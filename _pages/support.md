@@ -7,11 +7,12 @@ nav: true
 ---
 
 This two-section, month-long class will fill a vital need in the education offered at UTA. I would like to offer this class starting this fall semester. But I need your help getting:
-- additional students to sign up for the class
-- a place to host the class 
-- GCP/AWS/Azure/etc. compute resources for the class
-- a temporary class license for the OpenAI API
-- robots to test our code on
+- Students!: Professors, please share [this invitation](TODO) with your students
+- Lecture hall: I'm expecting around 50 students to attend each session. 
+- Compute resources: time on UTA Cluster, UT Cluster, or AWS/GCP/Azure credits
+- Temporary license for entire class to use the OpenAI API
+- Robots: articulated arm, [OpenBot](https://www.openbot.org/), and [microMVP swarm](https://arc.cs.rutgers.edu/mvp/) (or similar)
+- [financial support for all of the above](https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice)
 
 Thank you everyone for your help!
 
