@@ -2,13 +2,83 @@
 layout: home
 title: Home
 permalink: /
-description: 8-day journey to the cutting-edge artificial intelligence theory and technique.
+description: Free 8-day journey to the cutting-edge artificial intelligence theory and technique.
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+<span style="opacity: 0.9">Day 1: </span>
+<span style="font-weight: 700">Oct. 4 / Oct. 5, 2021</span>
+<p style="background-color: dark-grey">
+Lecture 1:00 - 1:50pm <br>
+Lab 2:00 - 2:50pm<br>
+Discussion 3:00 - 3:50pm<br>
+Times may be adjusted per general student availability.
+</p>
+
+---
+
+We will study:
+<ul>
+<li>Symbolic approaches</li>
+<li>Machine learning</li>
+<li>Neural networks and deep learning</li>
+<li>Computer vision</li>
+<li>Sequence modeling</li>
+<li>Natural language processing</li>
+<li>Reinforcement learning (including multi-agent RL)</li>
+<li>Human-level artificial intelligence</li>
+</ul>
+
+---
+
+We will use:
+<ul>
+<li>Python</li>
+<li>SciPy suite</li>
+<li>Jax</li>
+<li>PyTorch</li>
+<li>TensorFlow (python, tflite and tf.js)</li>
+<li>Huggingface</li>
+<li>OpenAI Gym</li>
+<li>PettingZoo</li>
+<li>TDW</li>
+<li>Docker</li>
+<li>Cload Compute</li>
+</ul>
+
+---
+
+Student expectations:
+<ul>
+<li>calculate the derivative of a function</li>
+<li>apply probability & statistics to toy problems</li>
+<li>write simple Python programs</li>
+</ul>
+If many students already have deeper roots in math, statistics, information theory, physics, biology, neuroscience, or psychology, we will discuss advanced principles of artificial intelligence engineering from those perspectives.
+
+---
+
+Course expectations:
+ ❌ no homework <br>
+ ❌ no tests <br>
+ ❌ no grading  <br>
+ ⚠️ <b>This course is not accredited by UTA</b>  <br>
+ ✔️ Free <br>
+ ✔️ Undergraduate and graduate students welcome <br>
+ ✔️ individualized written assignments <br>
+ ✔️ machine learning <br>
+ ✔️ (most importantly) human learning <br>
+
+<div style="background-color: white; padding: 6pt;">
+If reading this puts your brain on the edge of chaos and your reward estimator feels like it's ready to explode, please consider taking this course.
+
+[More information]({{'details' | relative_url}})
+</div>
+
+---
 
 <form id="signup">
     <div id="beforeSignup">
@@ -44,58 +114,3 @@ $('#signup').submit(function(e){
     });
 });
 </script>
-
----
-
-<ul>
-<li>Symbolic approaches</li>
-<li>Machine learning</li>
-<li>Neural networks and deep learning</li>
-<li>Computer vision</li>
-<li>Sequence modeling</li>
-<li>Natural language processing</li>
-<li>Reinforcement learning (including multi-agent RL)</li>
-<li>Human-level artificial intelligence</li>
-</ul>
-
----
-
-<ul>
-<li>SciPy suite</li>
-<li>Jax</li>
-<li>PyTorch</li>
-<li>TensorFlow (python, tflite and tfjs)</li>
-<li>Huggingface</li>
-<li>OpenAI Gym</li>
-<li>PettingZoo</li>
-<li>TDW</li>
-<li>Cload Compute</li>
-</ul>
-
----
-
- ❌ no homework <br>
- ❌ no tests <br>
- ❌ no grading  <br>
- ⚠️ <b>This course is not accredited by UTA</b>  <br>
- ✔️ Undergraduate and graduate students welcome <br>
- ✔️ individualized written assignments <br>
- ✔️ machine learning <br>
- ✔️ (most importantly) human learning <br>
-
-<div style="background-color: white; padding: 6pt;">
-If reading this puts your brain on the edge of chaos and your reward estimator feels like it's ready to explode, please consider taking this course.
-
-[More information]({{'details' | relative_url}})
-</div>
-
----
-
-<span style="opacity: 0.9">Day 1: </span>
-<span style="font-weight: 700">Oct. 4 / Oct. 5, 2021</span>
-<p style="background-color: dark-grey">
-Lecture 1:00 - 1:50pm <br>
-Lab 2:00 - 2:50pm<br>
-Discussion 3:00 - 3:50pm<br>
-Times may be adjusted <br>per general student availability
-</p>
