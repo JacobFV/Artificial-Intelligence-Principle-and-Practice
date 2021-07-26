@@ -30,6 +30,7 @@ We will study:
     <li>Natural language processing</li>
     <li>Reinforcement learning (including multi-agent RL)</li>
     <li>Human-level artificial intelligence</li>
+    <li>AI safety and ethics</li>
 </ul>
 
 ---
