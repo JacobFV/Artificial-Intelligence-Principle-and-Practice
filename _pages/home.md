@@ -75,7 +75,7 @@ Course expectations:
 <div style="background-color: white; padding: 6pt;">
 If reading this puts your brain on the edge of chaos and your reward estimator feels like it's ready to explode, please consider taking this course.
 
-[More information]({{'details' | relative_url}})
+[More information](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/details)
 </div>
 
 ---
