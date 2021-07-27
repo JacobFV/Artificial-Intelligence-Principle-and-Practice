@@ -2,7 +2,7 @@
 layout: home
 title: Home
 permalink: /
-description: Free 8-day journey to the cutting-edge artificial intelligence theory and technique!
+description: Free 8-day workshop bringing you to the cutting-edge artificial intelligence theory and technique!
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -21,44 +21,38 @@ Day 1: **Oct. 4 / Oct. 5, 2021**
 ---
 
 We will study:
-<ul>
-    <li>Symbolic approaches</li>
-    <li>Machine learning</li>
-    <li>Neural networks and deep learning</li>
-    <li>Computer vision</li>
-    <li>Sequence modeling</li>
-    <li>Natural language processing</li>
-    <li>Reinforcement learning (including multi-agent RL)</li>
-    <li>Human-level artificial intelligence</li>
-    <li>AI safety and ethics</li>
-</ul>
+ - Symbolic approaches
+ - Machine learning
+ - Neural networks and deep learning
+ - Computer vision
+ - Sequence modeling
+ - Natural language processing
+ - Reinforcement learning (including multi-agent RL)
+ - Human-level artificial intelligence
+ - AI safety and ethics
 
 ---
 
 We will use:
-<ul>
-    <li>Python</li>
-    <li>SciPy suite</li>
-    <li>Jax</li>
-    <li>PyTorch</li>
-    <li>TensorFlow (python, tflite and tf.js)</li>
-    <li>Huggingface</li>
-    <li>OpenAI Gym</li>
-    <li>PettingZoo</li>
-    <li>TDW</li>
-    <li>Docker</li>
-    <li>Cload Compute</li>
-</ul>
+ - Python
+ - SciPy suite
+ - Jax
+ - PyTorch
+ - TensorFlow (python, tflite and tf.js)
+ - Huggingface
+ - OpenAI Gym
+ - PettingZoo
+ - TDW
+ - Docker
+ - Cload Compute
 
 ---
 
 Student expectations:
-<ul>
-<li>calculate the derivative of a function</li>
-<li>apply probability & statistics to toy problems</li>
-<li>write simple Python programs</li>
-<li>read 12 pages per class (for student attending the "Deep Dive")</li>
-</ul>
+ - calculate the derivative of a function
+ - apply probability & statistics to toy problems
+ - write simple Python programs
+ - read 12 pages per class (for student attending the "Deep Dive")
 
 If many students already have deeper roots in math, statistics, information theory, physics, biology, neuroscience, or psychology, we will discuss advanced principles of artificial intelligence engineering from those perspectives.
 
@@ -114,3 +108,7 @@ $('#signup').submit(function(e){
     });
 });
 </script>
+
+<br><br>
+
+<span style="color:grey"><b>ps: (Much of this document was drafted [using artificial intelligence](https://copilot.github.com/).)</b></span>
