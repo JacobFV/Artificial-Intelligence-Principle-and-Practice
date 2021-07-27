@@ -18,6 +18,7 @@ Times may be adjusted per general student availability.
 
 Day 1: <b>Oct. 4 / Oct. 5, 2021</b>
 
+[More information](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/details)
 ---
 
 We will study:
@@ -73,11 +74,9 @@ Course expectations:
  ✔️ machine learning <br>
  ✔️ (most importantly) human learning <br>
 
-<div style="background-color: white; padding: 6pt;">
-If your neurons have accumulated sufficient presynaptic evidence and your reward estimator feels like it's ready to explode, please [join me](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/#signup) on this exciting journey!
+---
 
-[More information](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/details)
-</div>
+If your neurons have accumulated sufficient presynaptic evidence and your reward estimator feels like it's ready to explode, please [join me](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/#signup) on this exciting journey!
 
 ---
 
