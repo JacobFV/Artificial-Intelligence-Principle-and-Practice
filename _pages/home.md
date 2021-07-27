@@ -2,23 +2,22 @@
 layout: home
 title: Home
 permalink: /
-description: Free 8-day journey to the cutting-edge artificial intelligence theory and technique.
+description: Free 8-day journey to the cutting-edge artificial intelligence theory and technique!
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p style="background-color: dark-grey">
-<b>Lecture</b> (1:00 - 1:50pm): interactive undergraduate-style lecture<br> 
-<b>Lab</b> (2:00 - 2:50pm): hands-on engineering experience<br>
-<b>Deep Dive</b> (3:00 - 3:50pm): graduate-style paper and peer-focused discussion<br>
+**Lecture** (1:00 - 1:50pm): interactive undergraduate-style lecture<br> 
+**Lab** (2:00 - 2:50pm): hands-on engineering experience<br>
+**Deep Dive** (3:00 - 3:50pm): graduate-style paper and peer-focused discussion<br>
 Times may be adjusted per general student availability.
-</p>
 
-Day 1: <b>Oct. 4 / Oct. 5, 2021</b>
+Day 1: **Oct. 4 / Oct. 5, 2021**
 
 [More information](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/details)
+
 ---
 
 We will study:
@@ -58,6 +57,7 @@ Student expectations:
 <li>calculate the derivative of a function</li>
 <li>apply probability & statistics to toy problems</li>
 <li>write simple Python programs</li>
+<li>read 12 pages per class (for student attending the "Deep Dive")</li>
 </ul>
 
 If many students already have deeper roots in math, statistics, information theory, physics, biology, neuroscience, or psychology, we will discuss advanced principles of artificial intelligence engineering from those perspectives.
