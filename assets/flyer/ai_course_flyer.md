@@ -9,7 +9,7 @@ Times may be adjusted per general student availability.
 
 Day 1: **Oct. 4 / Oct. 5, 2021**
 
-[Home page](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/) - [Syllabus](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/details) - [Schedule](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/schedule/)
+[Home page](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/) - [Syllabus](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/syllabus) - [Schedule](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/schedule/)
 
 ---
 

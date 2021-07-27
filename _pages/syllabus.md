@@ -2,62 +2,18 @@
 layout: page
 permalink: /syllabus/
 title: Syllabus
-description: course syllabus
+description: 
 nav: false
 ---
 
-<div id="introduction"></div>
-Artificial intelligence is increasingly playing a central role in every aspect of our lives: recommendation, navigation, healthcare, finance, engineering, gaming, and robotics, to name a few. Most of this course document was drafted using artificial intelligence. It's booming to life like the Internet was 25 years ago, it's the modern equivalence of high-level programming languages, the secret sauce of software enginering, and the subject of close attention by research, industry, and ethics communities. The emergence of human-level artificial intelligence systems (which is presently taking place in a variety of fields) is an exciting opportunity for students and researchers to explore the theory, practice, and impact of this technology.
+Artificial intelligence -- such as computer vision, natural language processing, and formal logic systems to name a few -- are increasingly playing a central role in every aspect of our lives: [gaming](https://nv-tlabs.github.io/gameGAN/), [robotics](https://arxiv.org/abs/1704.08617), [engineering](https://ai.googleblog.com/2020/04/chip-design-with-deep-reinforcement.html), [healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7325854/), [finance](https://www.turing.ac.uk/sites/default/files/2019-04/artificial_intelligence_in_finance_-_turing_report_0.pdf), and even [governance](https://ai.google/static/documents/perspectives-on-issues-in-ai-governance.pdf) to name a few. Most of this website was drafted [using artificial intelligence](https://copilot.github.com/). It's comparable to the Internet 25 years ago, it's the modern equivalence of high-level programming languages; employers desparately want developers who can harness it; writers constantly talk about it; and we don't even realize how much we're already using it. But just how does artificial intelligence work? 
 
-This course *Artificial Intelligence: Principle and Practice* is a 1-month long dual lecture-lab course that covers the theory and practice of artificial intelligence. It will be divided into a theoretical and a technical section - each 1 hour long. There will be two labs and two lectures each week with time and dates determined by student availability and course logistics. All classes will also be broadcast on MS Teams for later vieiwing.
+*Artificial Intelligence: Principle and Practice* is an 8 day workshop that covers the science and engineering of artificial intelligence. It will be divided into a lecture, lab, and "Deep Dive" discussion - each 45 minutes long on both M/W and T/Th. All classes will also be broadcast on YouTube for those who are unable to attend in person. 
 
-The theoretical section will cover the core concepts of AI with emphasis on deep learning. We are going to peer far beyond mathematical symbols on paper into the intelligent system they define. We will cover a huge spectrum of deep learning approaches, techniques, and perspectives including classical artificial 'intelligence', machine learning, deep learning, reinforcement learning, and the generalization limits of artificial intelligence.  
+The *lecture* is an interactive undergraduate-style lecture designed to cover the core concepts of AI with emphasis on deep learning. "Undergraduate-style" means you are only expected to be able to calculate the derivative of a 'simple' function, apply probability & statistics to toy problems, and write simple Python programs. We are going to peer far beyond mathematical symbols on paper into the intelligent system they define. (In the process of writing, GPT-3 suggested adding: "you will be given a task and asked to explain the algorithm." I may include something along these lines)
 
-The technical section will cover the implementation of these concepts in a practical setting. We will get hands-on experience with real data, real experiments, and real learning experience using several deep learning frameworks and tools (scipy and IPython suites, tensorflow, tensorboard, pytorch, huggingface, tf-lite, openai-gym, pettingzoo; TDW, generic docker deployment) to reimplement and improve algorithms from landmark academic papers. We will also use cloud compute to manage Internet-scale deep learning workflows. By the final week, I want to help every one of you (individually or in teams) design and develop your own novel, real world AI system, give a presentation on it, and plan to integrate it into a real world setting. 
+The *lab* is developed to give you hands-on experience with real data, real experiments, and real problems. The lab will start by using numpy, matplotlib, tensorflow, tensorboard, and openai-gym. Depending on class skill level, the lab may also use: jax, pytorch, huggingface, tf-lite, pettingzoo; TDW, and generic docker deployment. We will also use cloud compute to manage Internet-scale deep learning workflows. By the final week, you will have (individually or in teams) designed and developed your own novel, real world AI system, and the final day will be devoted to student presentations.
 
-There will be no homework, no tests, and no grading (besides recommendation letters). **This course is not accredited by UTA** However there will be individualized written assignments, machine learning, and most importantly, human learning. If you're neurons are on the verge of firing and your reward estimator feels like it's ready to explode, please [consider taking this course](https://docs.google.com/forms/d/e/1FAIpQLSdqPcZgCvDzUOFr8F5pFq8eCSVV-cvPlz2KmHe8YnA7wOmdCg/viewform?usp=sf_link).
+The *"Deep Dive"* is a graduate-style paper and peer-focused discussion. "Graduate-stle" means this section will spend much time reviewing and discussing landmark and state-of-the-art papers in AI. You will also have more opportunity to present your own thoughts or contributions on this discipline than in the lecture. 
 
-<div id="course-outline"></div>
-
-- [Introduction](#introduction)
-- [Course Outline](#course-outline)
-- [Course Expectations](#course-expectations)
-- [Course Cirriculum](#course-cirriculum)
-- [Course Resources](#course-resources)
-- [Contact](#contact)
-
-## Course Expectations
-<div id="course-expectations"></div>
-
-Students are not expected to have any prior knowledge on artificial intelligence. Students who come to this course should already:
-- be comfortable with the basic syntax and language features of Python and
-- understand algebra, probability, elementary calculus, and simple vector and matrix operations.
-
-If many in the class already have a strong background in these fields, we will accelerate the course as appropriate. If you do not feel like you understand the above topics or you have never used a programming language, please [contact me](/#contact) and I can help you get started.
-
-There will be **no required homework** for any portion of this course. Most lectures will include a brief written activity. 
-
-
-## Course Resources
-<div id="course-resources"></div>
-
-I will be posting links to the content used in this course as it is prepared.
-
-## Get Involved
-<div id="get-involved"></div>
-
-This two-section, month-long class will fill a vital need in the education offered at UTA. I would like to offer this class starting this fall semester. But I need your help getting:
-- additional students to sign up for the class
-- a place to host the class 
-- GCP/AWS/Azure/etc. compute resources for the class
-- a temporary class license for the OpenAI API
-- robots to test our code on
-
-Thank you everyone for your help!
-
-NOTE: this document is subject to further change without notice.
-
-## Contact
-<div id="contact"></div>
-
-You can message me on MS Teams **@Valdez, Jacob** (note: there are many Jacob Valdez's at UTA) or email me at `jacob`dot`valdez`at`uta.edu`. I am happy to answer any questions you may have.
+There will be no homework, no tests, and no costs (this course is free). **This course is not accredited by UTA** However there will be individualized activities, machine learning, and most importantly, human learning. If your neurons have accumulated sufficient presynaptic evidence and your reward estimator feels like it's ready to explode, please [join me](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/#signup) on this exciting journey!
