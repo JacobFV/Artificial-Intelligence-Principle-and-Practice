@@ -8,7 +8,7 @@ nav: true
 
 This two-section, month-long class will fill a vital need in the education offered at UTA. I would like to offer this class starting this fall semester. But I need your help getting:
 
-🔲 Students!: Professors, please share [this invitation](https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice/raw/main/assets/flyer/ai_course_flyer.pdf) with your students
+🔲 Students!: Professors, please share [this invitation](https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice/raw/main/assets/flyer/ai_course_flyer.pdf) or the link to [this website](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/) with your students
 
 🔲 Lecture hall: I'd like to prepare for around 50 students to attend each session (M-Th 1:00-3:50pm)
 
