@@ -2,9 +2,10 @@
 
 **Free 8-day workshop bringing you to the cutting-edge artificial intelligence theory and technique!**
 
+We'll meet twice a week on either Monday and Wednesday or on Tuesday and Thursday.
 **Lecture** (1:00 - 1:50pm): interactive undergraduate-style lecture
 **Lab** (2:00 - 2:50pm): hands-on engineering experience
-**Deep Dive** (3:00 - 3:50pm): graduate-style paper and peer-focused discussion
+**Deep Dive** (3:00 - 3:50pm MW or 11:00 - 11:50 TTh): graduate-style paper and peer-focused discussion
 Times may be adjusted per general student availability.
 
 Day 1: **Oct. 4 / Oct. 5, 2021**
