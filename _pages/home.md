@@ -10,9 +10,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Mon/Wed and Tue/Thur sessions held at TDB.
-**Lecture** (12:30 - 1:00pm): interactive undergraduate-style lecture</br> 
-**Lab** (1:10 - 1:50pm): hands-on engineering experience</br>
-**Deep Dive** (2:00 - 3:20pm on Mon/Wed only): graduate-style paper and peer-focused discussion</br>
+**Lecture** (12:30 - 1:00pm): interactive undergraduate-style lecture<br> 
+**Lab** (1:10 - 1:50pm): hands-on engineering experience<br>
+**Deep Dive** (2:00 - 3:20pm on Mon/Wed only): graduate-style paper and peer-focused discussion<br>
 
 Day 1: **Oct. 4 / Oct. 5, 2021**
 
@@ -22,47 +22,47 @@ Day 1: **Oct. 4 / Oct. 5, 2021**
 
 We will study:
 
- - 'Classical' AI </br>
- - Symbolic techniques </br>
- - Machine learning </br>
- - Neural networks and deep learning </br>
- - Computer vision </br>
- - Sequence modeling </br>
- - Natural language processing </br>
- - Reinforcement learning (including multi-agent RL) </br>
- - Human-level artificial intelligence </br>
- - AI safety and ethics </br>
+ - 'Classical' AI <br>
+ - Symbolic techniques <br>
+ - Machine learning <br>
+ - Neural networks and deep learning <br>
+ - Computer vision <br>
+ - Sequence modeling <br>
+ - Natural language processing <br>
+ - Reinforcement learning (including multi-agent RL) <br>
+ - Human-level artificial intelligence <br>
+ - AI safety and ethics <br>
 
 ---
 
 We will use:
 
- - Python </br>
- - NumPy, Pandas, Matplotlib </br>
- - TensorFlow, Keras, Huggingface </br>
- - OpenAI Gym, PettingZoo, ThreeDWorld </br>
- - tensorboard, wandb </br>
- - docker, Google Cloud Platform </br>
+ - Python <br>
+ - NumPy, Pandas, Matplotlib <br>
+ - TensorFlow, Keras, Huggingface <br>
+ - OpenAI Gym, PettingZoo, ThreeDWorld <br>
+ - tensorboard, wandb <br>
+ - docker, Google Cloud Platform <br>
 
 ---
 
 Students should already be able to:
 
- - calculate the derivative of a polynomial </br>
- - apply basic probability & statistics to toy problems </br>
- - write simple Python programs </br>
+ - calculate the derivative of a polynomial <br>
+ - apply basic probability & statistics to toy problems <br>
+ - write simple Python programs <br>
 
 ---
 
 Course expectations:
 
- ❌ no homework </br>
- ❌ no tests </br>
- ❌ no costs (this course is free) </br>
- ⚠️ **This course is not accredited by UTA**</br>
- ✅ individualized activities </br>
- ✅ machine learning </br>
- ✅ (most importantly) human learning </br>
+ ❌ no homework <br>
+ ❌ no tests <br>
+ ❌ no costs (this course is free) <br>
+ ⚠️ **This course is not accredited by UTA**<br>
+ ✅ individualized activities <br>
+ ✅ machine learning <br>
+ ✅ (most importantly) human learning <br>
 
 ---
 
