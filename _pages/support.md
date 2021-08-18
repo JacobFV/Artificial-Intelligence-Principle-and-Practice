@@ -16,7 +16,7 @@ This two-section, month-long class will fill a vital need in the education offer
 
 ✅ ~~**Temporary license** for entire class to use the OpenAI API~~ Thanks OpenAI!
 
-🔲 **Robot equiptment** to build 30 LittleArm V3's and 30 LittleBot's, and hands: bag of lego bricks, servos, motors, drivers, sensors, USB mini OTG, 3D print credits.
+🔲 **Robot equiptment** to build 30 LittleArm V3's and 30 LittleBot's.
 
 🔲 [financial support for all of the above](https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice). This entire program is offered free of charge. I am not making any money, and I will save leftover funds for the next workshop.
 
