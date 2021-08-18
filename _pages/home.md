@@ -2,18 +2,17 @@
 layout: home
 title: Home
 permalink: /
-description: Free 8-day workshop bringing you to the cutting-edge artificial intelligence theory and technique!
+description: Free 8-day workshop bringing you to the cutting-edge of artificial intelligence theory and technique!
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-We'll meet twice a week on either Monday and Wednesday or on Tuesday and Thursday.
-**Lecture** (1:00 - 1:50pm): interactive undergraduate-style lecture<br> 
-**Lab** (2:00 - 2:50pm): hands-on engineering experience<br>
-**Deep Dive** (3:00 - 3:50pm MW or 11:00 - 11:50 TTh): graduate-style paper and peer-focused discussion<br>
-Times may be adjusted per general student availability.
+Mon/Wed and Tue/Thur sessions held at TDB.
+**Lecture** (12:30 - 1:00pm): interactive undergraduate-style lecture</br> 
+**Lab** (1:10 - 1:50pm): hands-on engineering experience</br>
+**Deep Dive** (2:00 - 3:20pm on Mon/Wed only): graduate-style paper and peer-focused discussion</br>
 
 Day 1: **Oct. 4 / Oct. 5, 2021**
 
@@ -22,52 +21,48 @@ Day 1: **Oct. 4 / Oct. 5, 2021**
 ---
 
 We will study:
- - Symbolic approaches
- - Machine learning
- - Neural networks and deep learning
- - Computer vision
- - Sequence modeling
- - Natural language processing
- - Reinforcement learning (including multi-agent RL)
- - Human-level artificial intelligence
- - AI safety and ethics
+
+ - 'Classical' AI </br>
+ - Symbolic techniques </br>
+ - Machine learning </br>
+ - Neural networks and deep learning </br>
+ - Computer vision </br>
+ - Sequence modeling </br>
+ - Natural language processing </br>
+ - Reinforcement learning (including multi-agent RL) </br>
+ - Human-level artificial intelligence </br>
+ - AI safety and ethics </br>
 
 ---
 
 We will use:
- - Python
- - SciPy suite
- - Jax
- - PyTorch
- - TensorFlow (python, tflite and tf.js)
- - Huggingface
- - OpenAI Gym
- - PettingZoo
- - TDW
- - Docker
- - Cload Compute
+
+ - Python </br>
+ - NumPy, Pandas, Matplotlib </br>
+ - TensorFlow, Keras, Huggingface </br>
+ - OpenAI Gym, PettingZoo, ThreeDWorld </br>
+ - tensorboard, wandb </br>
+ - docker, Google Cloud Platform </br>
 
 ---
 
-Student expectations:
- - calculate the derivative of a function
- - apply probability & statistics to toy problems
- - write simple Python programs
- - read 12 pages per class (for student attending the "Deep Dive")
+Students should already be able to:
 
-If many students already have deeper roots in math, statistics, information theory, physics, biology, neuroscience, or psychology, we will discuss advanced principles of artificial intelligence engineering from those perspectives.
+ - calculate the derivative of a polynomial </br>
+ - apply basic probability & statistics to toy problems </br>
+ - write simple Python programs </br>
 
 ---
 
 Course expectations:
 
- ❌ no homework <br>
- ❌ no tests <br>
- ❌ no costs (this course is free) <br>
- ⚠️ <b>This course is not accredited by UTA</b><br>
- ✔️ individualized activities <br>
- ✔️ machine learning <br>
- ✔️ (most importantly) human learning <br>
+ ❌ no homework </br>
+ ❌ no tests </br>
+ ❌ no costs (this course is free) </br>
+ ⚠️ **This course is not accredited by UTA**</br>
+ ✅ individualized activities </br>
+ ✅ machine learning </br>
+ ✅ (most importantly) human learning </br>
 
 ---
 

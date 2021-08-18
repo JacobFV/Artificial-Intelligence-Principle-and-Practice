@@ -1,69 +1,65 @@
-﻿# Artificial Intelligence: Principle and Practice
+﻿
+# Artificial Intelligence: Principle and Practice
 
 **Free 8-day workshop bringing you to the cutting-edge artificial intelligence theory and technique!**
 
-We'll meet twice a week on either Monday and Wednesday or on Tuesday and Thursday.
-**Lecture** (1:00 - 1:50pm): interactive undergraduate-style lecture
-**Lab** (2:00 - 2:50pm): hands-on engineering experience
-**Deep Dive** (3:00 - 3:50pm MW or 11:00 - 11:50 TTh): graduate-style paper and peer-focused discussion
-Times may be adjusted per general student availability.
+Mon/Wed and Tue/Thur sessions held at TDB.
+**Lecture** (12:30 - 1:00pm): interactive undergraduate-style lecture</br> 
+**Lab** (1:10 - 1:50pm): hands-on engineering experience</br>
+**Deep Dive** (2:00 - 3:20pm on Mon/Wed only): graduate-style paper and peer-focused discussion</br>
 
 Day 1: **Oct. 4 / Oct. 5, 2021**
 
-[Home page](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/) - [Syllabus](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/syllabus) - [Schedule](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/schedule/)
+[Syllabus](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/syllabus)
 
 ---
 
 We will study:
- - Symbolic approaches
- - Machine learning
- - Neural networks and deep learning
- - Computer vision
- - Sequence modeling
- - Natural language processing
- - Reinforcement learning (including multi-agent RL)
- - Human-level artificial intelligence
- - AI safety and ethics
+
+ - 'Classical' AI </br>
+ - Symbolic techniques </br>
+ - Machine learning </br>
+ - Neural networks and deep learning </br>
+ - Computer vision </br>
+ - Sequence modeling </br>
+ - Natural language processing </br>
+ - Reinforcement learning (including multi-agent RL) </br>
+ - Human-level artificial intelligence </br>
+ - AI safety and ethics </br>
 
 ---
 
 We will use:
- - Python
- - SciPy suite
- - Jax
- - PyTorch
- - TensorFlow (python, tflite and tf.js)
- - Huggingface
- - OpenAI Gym
- - PettingZoo
- - TDW
- - Docker
- - Cload Compute
+
+ - Python </br>
+ - NumPy, Pandas, Matplotlib </br>
+ - TensorFlow, Keras, Huggingface </br>
+ - OpenAI Gym, PettingZoo, ThreeDWorld </br>
+ - tensorboard, wandb </br>
+ - docker, Google Cloud Platform </br>
 
 ---
 
-Student expectations:
- - calculate the derivative of a function
- - apply probability & statistics to toy problems
- - write simple Python programs
- - read 12 pages per class (for student attending the "Deep Dive")
+Students should already be able to:
 
-If many students already have deeper roots in math, statistics, information theory, physics, biology, neuroscience, or psychology, we will discuss advanced principles of artificial intelligence engineering from those perspectives.
+ - calculate the derivative of a polynomial </br>
+ - apply basic probability & statistics to toy problems </br>
+ - write simple Python programs </br>
 
 ---
 
 Course expectations:
-❌ no homework
-❌ no tests
-❌ no costs (this course is free)
-⚠️ <b>This course is not accredited by UTA</b>
-✔️ individualized activities
-✔️ machine learning
-✔️ (most importantly) human learning
+
+ ❌ no homework </br>
+ ❌ no tests </br>
+ ❌ no costs (this course is free) </br>
+ ⚠️ **This course is not accredited by UTA**</br>
+ ✅ individualized activities </br>
+ ✅ machine learning </br>
+ ✅ (most importantly) human learning </br>
 
 ---
 
 If your neurons have accumulated sufficient presynaptic evidence and your reward estimator feels like it's ready to explode, please [join me](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/#signup) on this exciting journey!
-
 
 ps: (Much of this document was drafted [using artificial intelligence](https://copilot.github.com/).)
