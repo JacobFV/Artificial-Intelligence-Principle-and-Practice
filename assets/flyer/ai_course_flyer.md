@@ -1,9 +1,8 @@
-﻿
 # Artificial Intelligence: Principle and Practice
 
 **Free 8-day workshop bringing you to the cutting-edge artificial intelligence theory and technique!**
 
-Mon/Wed and Tue/Thur sessions held at TDB.
+Mon/Wed and Tue/Thur sessions held online.
 **Lecture** (12:30 - 1:00pm): interactive undergraduate-style lecture</br> 
 **Lab** (1:10 - 1:50pm): hands-on engineering experience</br>
 **Deep Dive** (2:00 - 3:20pm on Mon/Wed only): graduate-style paper and peer-focused discussion</br>
@@ -60,6 +59,8 @@ Course expectations:
 
 ---
 
-If your neurons have accumulated sufficient presynaptic evidence and your reward estimator feels like it's ready to explode, please [join me](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/#signup) on this exciting journey!
+If your neurons have accumulated sufficient presynaptic evidence and your reward estimator feels like it's ready to explode, please [join](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/#signup) this exciting workshop!
+
+Project page: https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/
 
 ps: (Much of this document was drafted [using artificial intelligence](https://copilot.github.com/).)
