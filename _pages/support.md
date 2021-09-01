@@ -16,10 +16,10 @@ This two-section, month-long class will fill a vital need in the education offer
 
 ✅ ~~**Temporary license** for entire class to use the OpenAI API~~ Thanks OpenAI!
 
-🔲 **Robot equiptment** to build 30 LittleArm V3's and 30 LittleBot's.
+~~❌ **Robot equiptment** to build 30 LittleArm V3's and 30 LittleBot's.~~ We'll use python api's to online robot services instead.
 
 🔲 [financial support for all of the above](https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice). This entire program is offered free of charge. I am not making any money, and I will save leftover funds for the next workshop.
 
 Thank you everyone for your help!
 
-NOTE: This course plan is presented in good faith, but I'm details are still under development and may change.
+NOTE: This course plan is presented in good faith, but the details are still under development and may change.
