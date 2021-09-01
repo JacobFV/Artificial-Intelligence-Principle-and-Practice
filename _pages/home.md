@@ -9,8 +9,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Mon/Wed and Tue/Thur sessions held at a TDB location.
-
 Mon/Wed and Tue/Thur sessions held online.
 **Lecture** (12:30 - 1:00pm): interactive undergraduate-style lecture<br> 
 **Lab** (1:10 - 1:50pm): hands-on engineering experience<br>
