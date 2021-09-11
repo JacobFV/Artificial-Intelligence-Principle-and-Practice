@@ -61,7 +61,7 @@ Course expectations:
  ❌ no homework <br>
  ❌ no tests <br>
  ❌ no costs (this course is free) <br>
- ⚠️ **This course is not accredited by UTA**<br>
+ ⚠️ **This course is not accredited**<br>
  ✅ individualized activities <br>
  ✅ machine learning <br>
  ✅ (most importantly) human learning <br>
