@@ -59,6 +59,6 @@ Course expectations:
 
 If your neurons have accumulated sufficient presynaptic evidence and your reward estimator feels like it's ready to explode, please join this exciting workshop!
 
-Project page: tinyurl.com/ai-principles-and-practice
+Project page: https://tinyurl.com/ai-principle-and-practice
 
 ps: (Much of this document was drafted using artificial intelligence.)
