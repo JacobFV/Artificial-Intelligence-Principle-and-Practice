@@ -9,14 +9,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Mon/Wed and Tue/Thur sessions held online.<br> 
+Mon/Wed, Tue/Thur, and Sat/Sun sessions held online.<br> 
 **Lecture** (12:30 - 1:00pm): interactive undergraduate-style lecture<br> 
 **Lab** (1:10 - 1:50pm): hands-on engineering experience<br>
-**Deep Dive** (2:00 - 3:20pm on Mon/Wed only; online): graduate-style paper and peer-focused discussion<br>
+**Deep Dive** (2:00 - 3:20pm. Mon/Wed section only): graduate-style paper and peer-focused discussion<br>
 
-Day 1: **Oct. 4 / Oct. 5, 2021**
+Day 1: **Oct. 4 / Oct. 5 / Oct. 9, 2021**
 
-[Syllabus](https://jacobfv.github.io/Artificial-Intelligence-Principle-and-Practice/syllabus)
+Github repo: [https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice](https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice)
+
+\[We will use Zoom to meet. The link will be posted soon.\]
 
 ---
 
