@@ -55,7 +55,7 @@ If your neurons have accumulated sufficient presynaptic evidence and your reward
     <div id="beforeSignup">
         <input type="hidden" name="accessKey" value="0d04c522-1740-4f6c-aa50-ecc292a089bc">
         <input type="text" style="width: 100%; margin: 3pt;" name="name" placeholder="name" > <br>
-        <input type="text" style="width: 100%; margin: 3pt;" name="email" placeholder="email (UTA preferred)"> <br>
+        <input type="text" style="width: 100%; margin: 3pt;" name="email" placeholder="email"> <br>
         <input type="submit" value="Sign Up" class="highlightButton" style="font-weight: 800; border-color: darkblue; background-color: lightblue; margin: 3pt;" />
         <!-- If we receive data in this field submission will be ignored -->
         <input type="text" name="honeypot" style="display: none;">
