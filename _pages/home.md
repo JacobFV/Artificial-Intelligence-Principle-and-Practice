@@ -17,7 +17,7 @@ It will be held in 80-minute online sessions twice a week over 8 days of October
 - Tuesdays and Thursdays (12:30 - 1:50pm)
 - Saturdays (2:00 - 3:20pm and 3:30 - 4:50pm)
 
-All times listed in Central time. Day 1: **Sat. Oct. 2 / Mon. Oct. 4 / Tue. Oct. 5 2021**
+All times listed in Central time (UTC−05:00). First session: **Sat. Oct. 2 / Mon. Oct. 4 / Tue. Oct. 5 2021**
 
 Github repo: [https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice](https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice)
 
@@ -29,7 +29,7 @@ We will study:
 
  - 'Classical' AI shortcomings and modern symbolic progressing techniques
  - Machine learning fundamentals, neural networks, and deep learning
- - Computer vision, sequence modeling, natural language processing, deep graph processing 
+ - Computer vision, generative modeling, sequence modeling, natural language processing, deep graph processing 
  - Reinforcement learning, multi-agent RL, self-supervised learning, transfer learning, and domain generalization
  - MLops, AI safety, and ethics
 

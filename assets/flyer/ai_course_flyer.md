@@ -3,13 +3,13 @@
 
 This completely free workshop is intended to give undergraduate and graduate students from all science and engineering majors a fast introduction to modern artificial intelligence theory and technique with special emphasis on machine learning. 
 
-It will be held in 80-minute online sessions twice a week over 8 days of October. To accomadate varied schedules,    sessions will be held on:
+It will be held in 80-minute online sessions twice a week over 8 days of October. To accomadate varied schedules,    live sessions will be repeated on:
 
 - Mondays and Wednesdays (12:30 - 1:50pm)
 - Tuesdays and Thursdays (12:30 - 1:50pm)
 - Saturdays (2:00 - 3:20pm and 3:30 - 4:50pm)
 
-All times listed in Central time. Day 1: **Sat. Oct. 2 / Mon. Oct. 4 / Tue. Oct. 5 2021**
+and  later posted on YouTube. All times listed in Central time (UTC−05:00). First session: **Sat. Oct. 2 / Mon. Oct. 4 / Tue. Oct. 5 2021**
 
 Website: https://tinyurl.com/ai-principle-and-practice
 
@@ -19,7 +19,7 @@ We will study:
 
  - 'Classical' AI shortcomings and modern symbolic progressing techniques </br>
  - Machine learning fundamentals, neural networks, and deep learning </br>
- - Computer vision, sequence modeling, natural language processing, deep graph processing </br>
+ - Computer vision, generative modeling, sequence modeling, natural language processing, deep graph processing </br>
  - Reinforcement learning, multi-agent RL, self-supervised learning, transfer learning, and domain generalization </br>
  - MLops, AI safety, and ethics </br>
 
