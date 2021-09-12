@@ -13,8 +13,8 @@ This completely free workshop is intended to give undergraduate and graduate stu
 
 It will be held in 80-minute online sessions twice a week over 8 days of October. To accomadate varied schedules, sessions will be held on:
 
-- Mondays and Wednesdays (12:30 - 1:50pm)</br>
-- Tuesdays and Thursdays (12:30 - 1:50pm)</br>
+- Mondays and Wednesdays (12:30 - 1:50pm)
+- Tuesdays and Thursdays (12:30 - 1:50pm)
 - Saturdays (2:00 - 3:20pm and 3:30 - 4:50pm)
 
 All times listed in Central time. Day 1: **Sat. Oct. 2 / Mon. Oct. 4 / Tue. Oct. 5 2021**
@@ -27,21 +27,21 @@ Github repo: [https://github.com/JacobFV/Artificial-Intelligence-Principle-and-P
 
 We will study:
 
- - 'Classical' AI shortcomings and modern symbolic progressing techniques </br>
- - Machine learning fundamentals, neural networks, and deep learning </br>
- - Computer vision, sequence modeling, natural language processing, deep graph processing </br>
- - Reinforcement learning, multi-agent RL, self-supervised learning, transfer learning, and domain generalization </br>
- - MLops, AI safety, and ethics </br>
+ - 'Classical' AI shortcomings and modern symbolic progressing techniques
+ - Machine learning fundamentals, neural networks, and deep learning
+ - Computer vision, sequence modeling, natural language processing, deep graph processing 
+ - Reinforcement learning, multi-agent RL, self-supervised learning, transfer learning, and domain generalization
+ - MLops, AI safety, and ethics
 
 ---
 
 We will use:
 
- - Python </br>
- - `NumPy`, `Pandas`, `Matplotlib` </br>
- - `TensorFlow`, `Keras`,  `transformers` </br>
- - OpenAI `gym`, `PettingZoo`, `ThreeDWorld` </br>
- - `tensorboard`, `wandb`, docker, and the Google Cloud Platform </br>
+ - Python
+ - `NumPy`, `Pandas`, `Matplotlib`
+ - `TensorFlow`, `Keras`,  `transformers`
+ - OpenAI `gym`, `PettingZoo`, `ThreeDWorld`
+ - `tensorboard`, `wandb`, docker, and the Google Cloud Platform
 
 ---
 
