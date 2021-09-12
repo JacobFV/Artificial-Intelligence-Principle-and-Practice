@@ -1,8 +1,7 @@
 ﻿# Artificial Intelligence: Principle and Practice
-
 **Free 8-day workshop bringing you to the cutting-edge  of artificial intelligence theory and technique!**
 
-This completely free workshop is intended to give undergraduate and graduate students from all science and engineering majors a fast introduction to the modern artificial intelligence theory and technique with special emphasis on machine learning. 
+This completely free workshop is intended to give undergraduate and graduate students from all science and engineering majors a fast introduction to modern artificial intelligence theory and technique with special emphasis on machine learning. 
 
 It will be held in 80-minute online sessions twice a week over 8 days of October. To accomadate varied schedules,    sessions will be held on:
 
