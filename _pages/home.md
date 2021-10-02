@@ -21,7 +21,7 @@ All times listed in Central time (UTC−05:00). First session: **Sat. Oct. 2 / M
 
 Github repo: [https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice](https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice)
 
-\[We will use Zoom to meet. Recorded sessions will also be uploaded to YouTube afterwards. The links will be posted soon.\]
+Zoom link: [https://us04web.zoom.us/j/2940991499?pwd=QndzY0llY3NqRlEwYXYrWDVDTGRDdz09](https://us04web.zoom.us/j/2940991499?pwd=QndzY0llY3NqRlEwYXYrWDVDTGRDdz09)
 
 ---
 
