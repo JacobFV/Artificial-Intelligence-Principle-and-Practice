@@ -11,17 +11,9 @@ social: false  # includes social icons at the bottom of the page
 
 This completely free workshop is intended to give undergraduate and graduate students from all science and engineering majors a fast introduction to the modern artificial intelligence theory and technique with special emphasis on machine learning. 
 
-It will be held in 80-minute online sessions twice a week over 8 days of October. To accomodate varied schedules, sessions will be held on:
-
-- Mondays and Wednesdays (12:30 - 1:50pm)
-- Tuesdays and Thursdays (12:30 - 1:50pm)
-- Saturdays (2:00 - 3:20pm and 3:30 - 4:50pm)
-
-All times listed in Central time (UTC−05:00). First session: **Sat. Oct. 2 / Mon. Oct. 4 / Tue. Oct. 5 2021**
+It will be held in 80-minute online sessions twice a week over 8 days of October. Videos will be uploaded to YouTube soon.
 
 Github repo: [https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice](https://github.com/JacobFV/Artificial-Intelligence-Principle-and-Practice)
-
-Zoom link: [https://us04web.zoom.us/j/2940991499?pwd=QndzY0llY3NqRlEwYXYrWDVDTGRDdz09](https://us04web.zoom.us/j/2940991499?pwd=QndzY0llY3NqRlEwYXYrWDVDTGRDdz09)
 
 ---
 
